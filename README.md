@@ -59,3 +59,7 @@ Screen capture is available on `localhost` and secure HTTPS sites. If hosting be
 - `public/` — app interface, styles, and browser-side screen sharing.
 - `docs/images/` — README illustrations and animated demo.
 - `docs/create_readme_media.py` — script used to regenerate the README pictures and GIF (requires Pillow).
+
+## Go Online
+
+- https://adhrit-roomcast-screen-share-v1-0-2.onrender.com
